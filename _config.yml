@@ -9,6 +9,7 @@ disqus: 'queerInWurzen'
 include: ["_pages"]
 permalink: /:title/
 email: TODO
+url: https://queerinwurzen.de
 
 # Authors
 authors:
