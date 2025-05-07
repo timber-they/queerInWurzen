@@ -7,17 +7,18 @@ comments: false
 
 Angaben gemäß § 5 DDG
 
-Timo Borner  
-Kantstraße 20  
-04808 Wurzen  
+Klara Hotter  
+Steinbühlweg 6  
+92363 Rasch  
 
 Kontakt:  
+<!--TODO-->
 E-Mail: timber@systemli.org  
 
 Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV:  
-Timo Borner  
-Kantstraße 20  
-04808 Wurzen  
+Klara Hotter  
+Steinbühlweg 6  
+92363 Rasch  
 
 Haftungsausschluss:  
 
