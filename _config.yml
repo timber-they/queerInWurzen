@@ -2,8 +2,8 @@
 name: "Queer in Wurzen"
 title: "Queer in Wurzen"
 description: "Queere Menschen in Wurzen - und ihre Geschichten."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/logo.svg'
+favicon: 'assets/images/favicon.ico'
 baseurl: 
 disqus: 'queerInWurzen'
 include: ["_pages"]
@@ -16,10 +16,8 @@ authors:
     name: Timber
     display_name: Timber
     avatar: 'assets/images/avatar-timber.png'
-    email: timber@kanthaus.online
-    web: 
-    twitter: 
-    description: "TODO"
+    email: timber@systemli.org
+    description: "Nichtbinär in Wurzen."
 
 # Plugins
 plugins:
