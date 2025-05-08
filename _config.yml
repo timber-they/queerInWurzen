@@ -2,7 +2,7 @@
 name: "Queer in Wurzen"
 title: "Queer in Wurzen"
 description: "Queere Menschen in Wurzen - und ihre Geschichten."
-logo: 'assets/images/logo.svg'
+logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: 
 disqus: 'queerInWurzen'
