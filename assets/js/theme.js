@@ -71,18 +71,17 @@ setTimeout(function(){
 
 // Open/close navigation when clicked .nav-icon
 $(document).ready(function(){
-	$('.nav-icon').click(function(){
+    const handler = function(){
 		$('.nav-icon').toggleClass('active');
-	});
-	$(".nav-icon").click(function(){
 		$("#menu").toggleClass('active');
-	});
-	$(".nav-icon").click(function(){
 		$("#blackover-nav").toggleClass('active');
-	});
-	$(".nav-icon").click(function(){
 		$("body").toggleClass('active-side');
-	});
+	};
+	$('.nav-icon').click(handler);
+	$('.nav-icon').keydown(e => {
+        if (e.key === "Enter")
+            handler();
+    });
 });
 
 // Close navigation when clicked .blackover (Black background)
