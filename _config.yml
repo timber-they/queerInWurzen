@@ -18,6 +18,12 @@ authors:
     avatar: 'assets/images/avatar-timber.png'
     email: timber@systemli.org
     description: "Nichtbinär in Wurzen."
+  janina:
+    name: Janina
+    display_name: Janina
+    avatar: 'assets/images/avatar-janina.png'
+    email: TODO
+    description: "Pansexuell in Wurzen."
 
 # Plugins
 plugins:
