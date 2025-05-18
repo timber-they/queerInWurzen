@@ -13,7 +13,7 @@ Steinbühlweg 6
 
 Kontakt:  
 <!--TODO-->
-E-Mail: timber@systemli.org  
+E-Mail: TODO  
 
 Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV:  
 Klara Hotter  
