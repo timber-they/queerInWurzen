@@ -12,8 +12,7 @@ Steinbühlweg 6
 92363 Rasch  
 
 Kontakt:  
-<!--TODO-->
-E-Mail: TODO  
+E-Mail: queerinwurzen@systemli.org  
 
 Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV:  
 Klara Hotter  
