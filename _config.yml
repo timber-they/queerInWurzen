@@ -21,6 +21,11 @@ authors:
     display_name: Janina
     avatar: 'assets/images/avatar-janina.png'
     description: "Pansexuell in Wurzen."
+  gwen:
+    name: Gwen
+    display_name: Gwen
+    avatar: 'assets/images/avatar-gwen.png'
+    description: "Agender in Wurzen."
 
 # Plugins
 plugins:
