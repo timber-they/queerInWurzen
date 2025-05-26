@@ -14,17 +14,17 @@ authors:
   timber:
     name: Timber
     display_name: Timber
-    avatar: 'assets/images/avatar-timber.png'
+    avatar: 'assets/images/timber.png'
     description: "Nichtbinär in Wurzen."
   janina:
     name: Janina
     display_name: Janina
-    avatar: 'assets/images/avatar-janina.png'
+    avatar: 'assets/images/janina.png'
     description: "Pansexuell in Wurzen."
   gwen:
     name: Gwen
     display_name: Gwen
-    avatar: 'assets/images/avatar-gwen.png'
+    avatar: 'assets/images/gwen.png'
     description: "Agender in Wurzen."
 
 # Plugins
