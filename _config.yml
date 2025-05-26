@@ -45,6 +45,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-figure
+  - jekyll-redirect-from
     
 # Pagination 
 paginate: 6
