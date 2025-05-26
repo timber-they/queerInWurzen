@@ -3,7 +3,7 @@ layout: page
 title: "Über das Projekt: Queer in Wurzen"
 permalink: /about
 comments: false
-image: assets/images/queer.svg
+image: assets/images/queer.webp
 #imageshadow: true
 ---
 

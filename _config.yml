@@ -2,7 +2,7 @@
 name: "Queer in Wurzen"
 title: "Queer in Wurzen"
 description: "Queere Menschen in Wurzen - und ihre Geschichten."
-logo: 'assets/images/logo.svg'
+logo: 'assets/images/logo.webp'
 favicon: 'assets/images/favicon.ico'
 baseurl: 
 disqus: 'queerInWurzen'
@@ -14,22 +14,22 @@ authors:
   timber:
     name: Timber
     display_name: Timber (dey/deren)
-    avatar: 'assets/images/timber.svg'
+    avatar: 'assets/images/timber.webp'
     description: "Nichtbinär in Wurzen."
   janina:
     name: Janina
     display_name: Janina (sie/alle)
-    avatar: 'assets/images/janina.svg'
+    avatar: 'assets/images/janina.webp'
     description: "Pansexuell in Wurzen."
   gwen:
     name: Gwen
     display_name: Gwen (keine Pronomen)
-    avatar: 'assets/images/gwen.svg'
+    avatar: 'assets/images/gwen.webp'
     description: "Agender in Wurzen."
   fia:
     name: Fia
     display_name: Fia (sie/ihr)
-    avatar: 'assets/images/fia.svg'
+    avatar: 'assets/images/fia.webp'
     description: "Polyamor in Wurzen."
 
 # Plugins
