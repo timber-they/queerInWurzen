@@ -1,0 +1,20 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1000px' height='500px'>
+<defs>
+<linearGradient id='g1'>
+<stop stop-color='#ed2224'/>
+<stop offset='.068' stop-color='#f35b22'/>
+<stop offset='.135' stop-color='#f99621'/>
+<stop offset='.203' stop-color='#f5c11e'/>
+<stop offset='.27' stop-color='#f1eb1b'/>
+<stop offset='.3' stop-color='#f1eb1b'/>
+<stop offset='.33' stop-color='#f1eb1b'/>
+<stop offset='.442' stop-color='#63c720'/>
+<stop offset='.553' stop-color='#0c9b49'/>
+<stop offset='.665' stop-color='#21878d'/>
+<stop offset='.777' stop-color='#3954a5'/>
+<stop offset='.888' stop-color='#61379b'/>
+<stop offset='1' stop-color='#93288e'/>
+</linearGradient>
+</defs>
+<rect width='100%' height='100%' fill='url(#g1)'/>
+</svg>

@@ -3,8 +3,7 @@ layout: page
 title: "Kontakt"
 permalink: /contact
 comments: false
-# TODO
-#image: assets/images/screenshot.jpg
+image: assets/images/queer.svg
 #imageshadow: true
 ---
 
