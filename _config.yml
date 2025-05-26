@@ -13,19 +13,24 @@ permalink: /:title/
 authors:
   timber:
     name: Timber
-    display_name: Timber
+    display_name: Timber (dey/deren)
     avatar: 'assets/images/timber.png'
     description: "Nichtbinär in Wurzen."
   janina:
     name: Janina
-    display_name: Janina
+    display_name: Janina (sie/alle)
     avatar: 'assets/images/janina.png'
     description: "Pansexuell in Wurzen."
   gwen:
     name: Gwen
-    display_name: Gwen
+    display_name: Gwen (keine Pronomen)
     avatar: 'assets/images/gwen.png'
     description: "Agender in Wurzen."
+  fia:
+    name: Fia
+    display_name: Fia (sie/ihr)
+    avatar: 'assets/images/fia.png'
+    description: "Polyamor in Wurzen."
 
 # Plugins
 plugins:
@@ -35,14 +40,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-figure
-    
-# Archives
-jekyll-archives:
-  enabled:
-    - categories
-  layout: archive
-  permalinks:
-    category: '/category/:name/'
     
 # Pagination 
 paginate: 6
