@@ -36,6 +36,11 @@ authors:
     display_name: Aleks (they/she)
     avatar: 'assets/images/aleks.webp'
     description: "Nonbinary in Wurzen."
+  astrid:
+    name: Astrid
+    display_name: Astrid (sie/ihr)
+    avatar: 'assets/images/astrid.webp'
+    description: "Bisexuell in Wurzen."
 
 # Plugins
 plugins:
