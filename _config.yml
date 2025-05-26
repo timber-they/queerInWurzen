@@ -41,6 +41,11 @@ authors:
     display_name: Astrid (sie/ihr)
     avatar: 'assets/images/astrid.webp'
     description: "Bisexuell in Wurzen."
+  lisa:
+    name: Lisa
+    display_name: Lisa (sie/ihr)
+    avatar: 'assets/images/lisa.webp'
+    description: "Trans* in Wurzen."
 
 # Plugins
 plugins:
