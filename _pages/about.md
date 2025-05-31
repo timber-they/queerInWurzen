@@ -13,11 +13,11 @@ Letztes Jahr gab es das erste Mal einen [CSD in Wurzen](https://www.instagram.co
 
 Um queeren Menschen in Wurzen trotzdem Sichtbarkeit zu verschaffen und zu zeigen, dass queere Menschen auch einfach nur Menschen sind, haben wir das Projekt *Queer in Wurzen* gestartet. Hier erzählen einige queere Menschen, die selbst in Wurzen leben, ihre Geschichten. Denn zu oft wird nur über uns geredet, anstatt dass uns zugehört wird.
 
-# Was bedeuten diese Farbverläufe?
+## Was bedeuten diese Farbverläufe?
 
 Die Farbverläufe sind [Gradienten](https://cesque.com/gaydient/) der *Pride Flags*. Was die einzelnen Flaggen bedeuten, kannst du im [queeren Lexikon](https://queer-lexikon.net/pride-flags/) nachlesen.
 
-# Was bedeutet queer überhaupt?
+## Was bedeutet queer überhaupt?
 
 Das [queere Lexikon](https://queer-lexikon.net/2017/06/08/queer/) schreibt dazu:
 
