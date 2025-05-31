@@ -1,11 +1,9 @@
 ---
 layout: post
-# TODO
-title: "Rocinante: Queer in Wurzen."
+title: "Rocinante: Trans* in Wurzen."
 author: "rocinante"
-# TODO
-categories: [ Queer ]
-image: assets/images/queer.svg
+categories: [ Trans, Queer ]
+image: assets/images/trans.svg
 toc: false
 ---
 
