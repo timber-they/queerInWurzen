@@ -5,6 +5,7 @@ author: "rocinante"
 categories: [ Trans, Queer ]
 image: assets/images/trans.svg
 toc: false
+description: "Ich bin Rocinante; ich bin trans* und lebe in Wurzen."
 ---
 
 – Guck mal, ein Schwuler!  
