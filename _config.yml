@@ -46,6 +46,12 @@ authors:
     display_name: Lisa (sie/ihr)
     avatar: 'assets/images/lisa.webp'
     description: "Trans* in Wurzen."
+  rocinante:
+    name: Rocinante
+    display_name: Rocinante
+    avatar: 'assets/images/rocinante.webp'
+      # TODO
+    description: "Queer in Wurzen."
 
 # Plugins
 plugins:
