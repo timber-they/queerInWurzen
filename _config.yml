@@ -51,6 +51,11 @@ authors:
     display_name: Rocinante
     avatar: 'assets/images/rocinante.webp'
     description: "Trans* in Wurzen."
+  beiunsdochnicht:
+    name: Bei uns doch nicht!
+    display_name: Bei uns doch nicht!
+    avatar: 'assets/images/beiunsdochnicht.webp'
+    description: "Podcast: Queersein und Queerfeindlichkeit in Wurzen."
 
 # Plugins
 plugins:

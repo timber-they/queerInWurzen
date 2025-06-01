@@ -31,6 +31,15 @@ post_class: post-template
 <!-- Featured Image -->
 {% include featured-image.html %}
 
+<!-- Audio -->
+{% if page.audio %}
+
+<div class="article-post">
+    <iframe width="100%" height="120" src="{{page.audio}}" frameborder="0" allow="encrypted-media; fullscreen; autoplay; idle-detection; speaker-selection; web-share;" ></iframe>
+</div>
+
+{% endif %}
+
 <!-- Content -->
 {% include article.html %}
 
