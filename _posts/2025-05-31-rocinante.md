@@ -6,6 +6,9 @@ categories: [ Trans, Queer ]
 image: assets/images/trans.svg
 toc: false
 description: "Ich bin Rocinante; ich bin trans* und lebe in Wurzen."
+redirect_from:
+- /queer1
+- /queer1/
 ---
 
 – Guck mal, ein Schwuler!  
