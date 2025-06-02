@@ -3,7 +3,7 @@ layout: page
 title: "Kontakt"
 permalink: /contact
 comments: false
-image: assets/images/queer.svg
+#image: assets/images/queer.svg
 #imageshadow: true
 ---
 
