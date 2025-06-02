@@ -56,6 +56,11 @@ authors:
     display_name: Bei uns doch nicht!
     avatar: 'assets/images/beiunsdochnicht.webp'
     description: "Podcast: Queersein und Queerfeindlichkeit in Wurzen."
+  mark:
+    name: Mark und Leo
+    display_name: Mark (er) und Leo (sie)
+    avatar: 'assets/images/mark.webp'
+    description: "Mark und Leo: Queeres Leben in Wurzen"
 
 # Plugins
 plugins:
