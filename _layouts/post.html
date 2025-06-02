@@ -31,9 +31,17 @@ post_class: post-template
 <!-- Featured Image -->
 {% include featured-image.html %}
 
+<!-- CN -->
+{% if page.cn %}
+<div class="article-post">
+    <i>{{page.cn}}</i>
+</div>
+{% endif %}
+
 <!-- Audio -->
 {% if page.audio %}
 
+</br>
 <div class="article-post">
     <iframe width="100%" height="120" src="{{page.audio}}" frameborder="0" allow="encrypted-media; fullscreen; autoplay; idle-detection; speaker-selection; web-share;" ></iframe>
 </div>
@@ -43,6 +51,7 @@ post_class: post-template
 <!-- Video -->
 {% if page.video %}
 
+</br>
 <div class="article-post">
     <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="{{page.video}}" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="{{page.videoTitle}}"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 </div>

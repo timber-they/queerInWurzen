@@ -10,6 +10,7 @@ audio: "https://player-widget.mixcloud.com/widget/iframe/?hide_cover=1&light=1&f
 redirect_from:
 - /queer2
 - /queer2/
+cn: "In diesem Podcast kommt Queerfeindlichkeit vor"
 ---
 
 Gab es 2019 noch vier Christopher Street Days in Sachsen, waren es 2022 schon 15. Das heißt: queere Lebensweisen werden auch in den Landkreisen immer sichtbarer. Doch nicht nur die Sichtbarkeit nimmt zu – auch für die extreme Rechte ist das Thema Queerfeindlichkeit sehr zentral und macht queeres Leben im Umland zur Unsicherheit. Wir sprechen in dieser Folge mit Lou aus Wurzen, sowie mit Vera und Manni von der Beratungsstelle „Que(e)r durch Sachsen“ über queeres Leben im Umland, über die extreme Rechte und die „normale“ Dominanzgesellschaft und über politische Wünsche und Forderungen.

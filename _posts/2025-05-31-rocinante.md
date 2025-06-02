@@ -9,6 +9,7 @@ description: "Ich bin Rocinante; ich bin trans* und lebe in Wurzen."
 redirect_from:
 - /queer1
 - /queer1/
+cn: "In diesem Text kommt Transfeindlichkeit vor"
 ---
 
 – Guck mal, ein Schwuler!  
